@@ -7,6 +7,6 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: lightblue;
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 18px;
 }
